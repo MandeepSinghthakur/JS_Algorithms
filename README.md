@@ -1,5 +1,6 @@
 # JS_Algorithms
-Soriting Algorithms,
+Sorting Algorithms,
+Trees
 Heaps
 Queue,
 Graphs
